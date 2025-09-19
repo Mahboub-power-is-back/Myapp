@@ -1,0 +1,37 @@
+
+Privacy Policy for Herodnstt
+Effective Date: [Insert Date]
+
+This Privacy Policy explains how we collect, use, and protect information when you use our app.
+
+Information We Collect
+- Device Information: such as device model, operating system, and unique device identifiers.
+- Usage Data: including app interactions, features used, and time spent in the app.
+- Advertising Data: collected via Google AdMob, including cookies, advertising identifiers, and analytics data.
+
+We do not collect personally identifiable information (PII) such as name, email, phone number, or address.
+
+How We Use Information
+- Provide and improve app functionality.
+- Display personalized and non-personalized ads through Google AdMob.
+- Analyze usage trends to enhance user experience.
+
+Third-Party Services
+Our app uses Google AdMob for advertising. AdMob may collect and process data as described in Google's Privacy Policy.
+For more details, visit: https://policies.google.com/privacy
+
+Your Choices
+- You can opt out of personalized advertising by visiting https://www.google.com/settings/ads/
+- You can also manage your device’s privacy settings to restrict data collection.
+
+Children’s Privacy
+Our app is not directed toward children under 13. We do not knowingly collect personal information from children.
+
+Security
+We implement reasonable measures to protect your information. However, no method of transmission over the internet or electronic storage is completely secure.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. Updates will be posted here with the revised effective date.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at: your-email@example.com
